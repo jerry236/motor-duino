@@ -3,6 +3,10 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\MEGUMI\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\MEGUMI\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\**",
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\AccelStepper\\src",
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\Adafruit_Motor_Shield_library",
                 "${workspaceRoot}",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
@@ -12,7 +16,7 @@
                 "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\**"
             ],
             "forcedInclude": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+                "C:\\Users\\MEGUMI\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\cores\\arduino\\Arduino.h"
             ],
             "intelliSenseMode": "msvc-x64"
         }

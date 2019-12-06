@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "port": "COM8",
-    "sketch": "mitoduino.ino"
+    "port": "COM4",
+    "sketch": "mitoduino/mitoduino.ino",
+    "programmer": "AVRISP mkII"
 }
